@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\seman\\.gradle\\daemon\\8.0\\it.unibas.progetto.app-merged_res-28:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\seman\\.gradle\\daemon\\8.0\\it.unibas.progetto.app-main-30:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\seman\\.gradle\\daemon\\8.0\\it.unibas.progetto.app-merged_res-28:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\seman\\.gradle\\daemon\\8.0\\it.unibas.progetto.app-main-30:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\seman\\.gradle\\daemon\\8.0\\it.unibas.progetto.app-merged_res-28:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\seman\\.gradle\\daemon\\8.0\\it.unibas.progetto.app-main-30:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "it.unibas.progetto.app-merged_res-28:/layout_vista_login.xml.flat",
+        "source": "it.unibas.progetto.app-main-30:/layout/vista_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\seman\\.gradle\\daemon\\8.0\\it.unibas.progetto.app-merged_res-28:\\drawable_baseline_account_balance_wallet_24.xml.flat",
+        "source": "C:\\Users\\seman\\.gradle\\daemon\\8.0\\it.unibas.progetto.app-main-30:\\drawable\\baseline_account_balance_wallet_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\seman\\.gradle\\daemon\\8.0\\it.unibas.progetto.app-merged_res-28:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\seman\\.gradle\\daemon\\8.0\\it.unibas.progetto.app-main-30:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\seman\\.gradle\\daemon\\8.0\\it.unibas.progetto.app-merged_res-28:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\seman\\.gradle\\daemon\\8.0\\it.unibas.progetto.app-main-30:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\seman\\.gradle\\daemon\\8.0\\it.unibas.progetto.app-merged_res-28:\\layout_vista_login.xml.flat",
+        "source": "C:\\Users\\seman\\.gradle\\daemon\\8.0\\it.unibas.progetto.app-main-30:\\layout\\vista_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\seman\\.gradle\\daemon\\8.0\\it.unibas.progetto.app-merged_res-28:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\seman\\.gradle\\daemon\\8.0\\it.unibas.progetto.app-main-30:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\seman\\.gradle\\daemon\\8.0\\it.unibas.progetto.app-merged_res-28:\\color_bottone.xml.flat",
+        "source": "C:\\Users\\seman\\.gradle\\daemon\\8.0\\it.unibas.progetto.app-main-30:\\color\\bottone.xml"
+    },
+    {
+        "merged": "C:\\Users\\seman\\.gradle\\daemon\\8.0\\it.unibas.progetto.app-merged_res-28:\\layout_activity_principale.xml.flat",
+        "source": "C:\\Users\\seman\\.gradle\\daemon\\8.0\\it.unibas.progetto.app-main-30:\\layout\\activity_principale.xml"
+    },
+    {
+        "merged": "C:\\Users\\seman\\.gradle\\daemon\\8.0\\it.unibas.progetto.app-merged_res-28:\\layout_vista_principale.xml.flat",
+        "source": "C:\\Users\\seman\\.gradle\\daemon\\8.0\\it.unibas.progetto.app-main-30:\\layout\\vista_principale.xml"
+    }
+]

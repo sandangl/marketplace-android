@@ -1,0 +1,88 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="it.unibas.progetto"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+9        android:targetSdkVersion="33" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\seman\OneDrive - studenti.unibas.it\Informatica - esercizi\III Anno\MarketplaceAndroid\app\src\main\AndroidManifest.xml:4:1-62
+11-->C:\Users\seman\OneDrive - studenti.unibas.it\Informatica - esercizi\III Anno\MarketplaceAndroid\app\src\main\AndroidManifest.xml:4:18-60
+12
+13    <permission
+13-->[androidx.core:core:1.9.0] C:\Users\seman\.gradle\caches\transforms-3\0bb5616a7558933ce9ef66db5210a361\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+14        android:name="it.unibas.progetto.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+14-->[androidx.core:core:1.9.0] C:\Users\seman\.gradle\caches\transforms-3\0bb5616a7558933ce9ef66db5210a361\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+15        android:protectionLevel="signature" />
+15-->[androidx.core:core:1.9.0] C:\Users\seman\.gradle\caches\transforms-3\0bb5616a7558933ce9ef66db5210a361\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+16
+17    <uses-permission android:name="it.unibas.progetto.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+17-->[androidx.core:core:1.9.0] C:\Users\seman\.gradle\caches\transforms-3\0bb5616a7558933ce9ef66db5210a361\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+17-->[androidx.core:core:1.9.0] C:\Users\seman\.gradle\caches\transforms-3\0bb5616a7558933ce9ef66db5210a361\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+18
+19    <application
+19-->C:\Users\seman\OneDrive - studenti.unibas.it\Informatica - esercizi\III Anno\MarketplaceAndroid\app\src\main\AndroidManifest.xml:6:5-23:19
+20        android:name="it.unibas.progetto.Applicazione"
+20-->C:\Users\seman\OneDrive - studenti.unibas.it\Informatica - esercizi\III Anno\MarketplaceAndroid\app\src\main\AndroidManifest.xml:7:13-59
+21        android:allowBackup="true"
+21-->C:\Users\seman\OneDrive - studenti.unibas.it\Informatica - esercizi\III Anno\MarketplaceAndroid\app\src\main\AndroidManifest.xml:8:13-39
+22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+22-->[androidx.core:core:1.9.0] C:\Users\seman\.gradle\caches\transforms-3\0bb5616a7558933ce9ef66db5210a361\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+23        android:debuggable="true"
+24        android:extractNativeLibs="false"
+25        android:icon="@mipmap/ic_launcher"
+25-->C:\Users\seman\OneDrive - studenti.unibas.it\Informatica - esercizi\III Anno\MarketplaceAndroid\app\src\main\AndroidManifest.xml:9:13-47
+26        android:label="@string/app_name"
+26-->C:\Users\seman\OneDrive - studenti.unibas.it\Informatica - esercizi\III Anno\MarketplaceAndroid\app\src\main\AndroidManifest.xml:10:13-45
+27        android:testOnly="true"
+28        android:theme="@style/AppTheme"
+28-->C:\Users\seman\OneDrive - studenti.unibas.it\Informatica - esercizi\III Anno\MarketplaceAndroid\app\src\main\AndroidManifest.xml:11:13-44
+29        android:usesCleartextTraffic="true" >
+29-->C:\Users\seman\OneDrive - studenti.unibas.it\Informatica - esercizi\III Anno\MarketplaceAndroid\app\src\main\AndroidManifest.xml:12:13-48
+30        <activity
+30-->C:\Users\seman\OneDrive - studenti.unibas.it\Informatica - esercizi\III Anno\MarketplaceAndroid\app\src\main\AndroidManifest.xml:13:9-21:20
+31            android:name="it.unibas.progetto.activity.ActivityLogin"
+31-->C:\Users\seman\OneDrive - studenti.unibas.it\Informatica - esercizi\III Anno\MarketplaceAndroid\app\src\main\AndroidManifest.xml:14:17-73
+32            android:exported="true"
+32-->C:\Users\seman\OneDrive - studenti.unibas.it\Informatica - esercizi\III Anno\MarketplaceAndroid\app\src\main\AndroidManifest.xml:16:17-40
+33            android:label="@string/app_name" >
+33-->C:\Users\seman\OneDrive - studenti.unibas.it\Informatica - esercizi\III Anno\MarketplaceAndroid\app\src\main\AndroidManifest.xml:15:17-49
+34            <intent-filter>
+34-->C:\Users\seman\OneDrive - studenti.unibas.it\Informatica - esercizi\III Anno\MarketplaceAndroid\app\src\main\AndroidManifest.xml:17:13-20:29
+35                <action android:name="android.intent.action.MAIN" />
+35-->C:\Users\seman\OneDrive - studenti.unibas.it\Informatica - esercizi\III Anno\MarketplaceAndroid\app\src\main\AndroidManifest.xml:18:17-69
+35-->C:\Users\seman\OneDrive - studenti.unibas.it\Informatica - esercizi\III Anno\MarketplaceAndroid\app\src\main\AndroidManifest.xml:18:25-66
+36
+37                <category android:name="android.intent.category.LAUNCHER" />
+37-->C:\Users\seman\OneDrive - studenti.unibas.it\Informatica - esercizi\III Anno\MarketplaceAndroid\app\src\main\AndroidManifest.xml:19:17-77
+37-->C:\Users\seman\OneDrive - studenti.unibas.it\Informatica - esercizi\III Anno\MarketplaceAndroid\app\src\main\AndroidManifest.xml:19:27-74
+38            </intent-filter>
+39        </activity>
+40
+41        <provider
+41-->[androidx.emoji2:emoji2:1.2.0] C:\Users\seman\.gradle\caches\transforms-3\d79248370322701c6054f880a86d73d0\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+42            android:name="androidx.startup.InitializationProvider"
+42-->[androidx.emoji2:emoji2:1.2.0] C:\Users\seman\.gradle\caches\transforms-3\d79248370322701c6054f880a86d73d0\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+43            android:authorities="it.unibas.progetto.androidx-startup"
+43-->[androidx.emoji2:emoji2:1.2.0] C:\Users\seman\.gradle\caches\transforms-3\d79248370322701c6054f880a86d73d0\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+44            android:exported="false" >
+44-->[androidx.emoji2:emoji2:1.2.0] C:\Users\seman\.gradle\caches\transforms-3\d79248370322701c6054f880a86d73d0\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+45            <meta-data
+45-->[androidx.emoji2:emoji2:1.2.0] C:\Users\seman\.gradle\caches\transforms-3\d79248370322701c6054f880a86d73d0\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+46                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+46-->[androidx.emoji2:emoji2:1.2.0] C:\Users\seman\.gradle\caches\transforms-3\d79248370322701c6054f880a86d73d0\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+47                android:value="androidx.startup" />
+47-->[androidx.emoji2:emoji2:1.2.0] C:\Users\seman\.gradle\caches\transforms-3\d79248370322701c6054f880a86d73d0\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+48            <meta-data
+48-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\seman\.gradle\caches\transforms-3\829161fcae4ae70cb1067ea6e477c54e\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+49                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+49-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\seman\.gradle\caches\transforms-3\829161fcae4ae70cb1067ea6e477c54e\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+50                android:value="androidx.startup" />
+50-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\seman\.gradle\caches\transforms-3\829161fcae4ae70cb1067ea6e477c54e\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+51        </provider>
+52    </application>
+53
+54</manifest>

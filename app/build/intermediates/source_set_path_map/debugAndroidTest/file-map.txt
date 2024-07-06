@@ -1,0 +1,4 @@
+it.unibas.progetto.test.app-androidTest-0 C:\Users\seman\OneDrive - studenti.unibas.it\Informatica - esercizi\III Anno\MarketplaceAndroid\app\build\generated\res\resValues\androidTest\debug
+it.unibas.progetto.test.app-mergeDebugAndroidTestResources-1 C:\Users\seman\OneDrive - studenti.unibas.it\Informatica - esercizi\III Anno\MarketplaceAndroid\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+it.unibas.progetto.test.app-mergeDebugAndroidTestResources-2 C:\Users\seman\OneDrive - studenti.unibas.it\Informatica - esercizi\III Anno\MarketplaceAndroid\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+it.unibas.progetto.test.app-merged_res-3 C:\Users\seman\OneDrive - studenti.unibas.it\Informatica - esercizi\III Anno\MarketplaceAndroid\app\build\intermediates\merged_res\debugAndroidTest
